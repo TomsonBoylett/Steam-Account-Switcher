@@ -1,0 +1,6 @@
+<Username1>	<Password1>
+<Username2>	<Password2>
+<Username3>	<Password3>
+<Username4>	<Password4>
+<Username5>	<Password5>
+"C:\Program Files (x86)\Steam\Steam.exe"
