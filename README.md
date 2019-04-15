@@ -1,5 +1,5 @@
 # Steam-Account-Switcher
-Don't use this: The steam username and password will be visible in plaintext on the command line.
+## Warning: The steam username and password will be visible in plaintext on the command line.
 
 Allows quickly switching between steam accounts.
 
